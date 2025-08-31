@@ -43,5 +43,22 @@ This line chart tracks sales growth across three customer segments (Consumer, Co
  **Insight:** Businesses can use these trends to focus on expanding Consumer-driven strategies while exploring ways to accelerate growth in Corporate and Home Office segments.  
 
 
+ ## Sales by Region – Treemap (Tableau)
+
+ **Viz** Treemap
+
+![Sales by Region Treemap](region_sales_treemap.png)
+
+
+
+**Analysis:**  
+- **Top regions:** Western Europe (**$1.73M**) and Central America (**$1.22M**).   
+- **Lowest contributors:** Southern Africa (~**$99K**) and Canada (~**$47K**).
+
+**Insight:**  
+Quickly surfaces high- vs. low-performing regions to guide market focus, budget allocation, and follow-up analysis on underperforming areas.
+
+
+
 
 

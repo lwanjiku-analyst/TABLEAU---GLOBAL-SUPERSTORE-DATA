@@ -1,6 +1,24 @@
 # TABLEAU---GLOBAL-SUPERSTORE-DATA
 Interactive Tableau dashboards built from the Global Superstore dataset, analyzing sales, profit, and regional performance through heatmaps, trend charts, and margin distribution visuals.
 
+## Profit Overview Dashboard (
+
+![Profit Overview Dashboard](profit_overview_dashboard.png)
+
+**Analysis**
+- **Distribution of Profit per Order (Histogram):** Shows most orders clustered around small positive profit, with a visible left tail of losses.
+- **Profit Trend Over Time (Line):** Quarterly profit rises steadily from 2017 to 2020, peaking in 2020 Q4 (dashed trend line confirms upward trajectory).
+- **Profit by Region (Bar):** Compares regional contribution; strongest bars in Western/Northern Europe and North Africa; losses concentrated in Southeastern Asia and parts of Western Asia.
+
+**Highlights**
+- **Upward trend:** Profit growth accelerates toward 2020 Q4.
+- **Order-level variability:** Majority of orders are slightly profitable; outliers include both high-profit wins and loss-making orders.
+- **Regional focus:** Expand in high-profit regions; investigate pricing/cost drivers in loss regions (e.g., Southeastern Asia).
+
+**Insight**
+- Combines **trend + distribution + geography** in one view to guide **pricing, promotion, and regional strategy**, and to prioritize root-cause analysis on loss pockets.
+
+
 **Viz** Box and whisker plot
 
 ## Profit Margin Distribution 

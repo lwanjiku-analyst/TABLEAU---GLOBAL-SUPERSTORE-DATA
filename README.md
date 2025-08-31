@@ -1,6 +1,8 @@
 # TABLEAU---GLOBAL-SUPERSTORE-DATA
 Interactive Tableau dashboards built from the Global Superstore dataset, analyzing sales, profit, and regional performance through heatmaps, trend charts, and margin distribution visuals.
+
 **Visual** Box and whisker plot
+
 ## Profit Margin Distribution 
 
 ![Profit Margin Distribution](profit_margin_distribution.png)

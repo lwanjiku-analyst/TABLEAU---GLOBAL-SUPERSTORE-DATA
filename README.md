@@ -93,7 +93,20 @@ This line chart tracks sales growth across three customer segments (Consumer, Co
 - **Lowest contributors:** Southern Africa (**$99K**) and Canada (**$47K**).
 
 **Insight:**  
+
 Quickly surfaces high- vs. low-performing regions to guide market focus, budget allocation, and follow-up analysis on underperforming areas.
+
+
+
+
+
+**Live Dashboard:**  
+
+🔗 [Click here to view the interactive Tableau Dashboard](https://public.tableau.com/app/profile/lilian.wanjiku/viz/SuperStoreAnalysis_Dashboard/Dashboard2?publish=yes)
+
+[![Open in Tableau Public](https://img.shields.io/badge/Tableau%20Public-View%20Dashboard-005B96?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/lilian.wanjiku/viz/SuperStoreAnalysis_Dashboard/Dashboard2?publish=yes)
+
+
 
 
 

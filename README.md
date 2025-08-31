@@ -1,6 +1,6 @@
 ## Global Superstore Data
 
-I built Interactive Tableau dashboards analyzing Global Superstore sales, profit, and regional trends using heatmaps, maps, and trend charts—highlighting growth drivers, high-margin categories, and performance insights.
+I built Interactive Tableau dashboards analyzing Global Superstore sales, profit, and regional trends using heatmaps, maps, and trend chartshighlighting growth drivers, high-margin categories, and performance insights.
 
 ## Profit Overview Dashboard 
 

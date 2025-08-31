@@ -53,7 +53,7 @@ This line chart tracks sales growth across three customer segments (Consumer, Co
 
 **Analysis:**  
 - **Top regions:** Western Europe (**$1.73M**) and Central America (**$1.22M**).   
-- **Lowest contributors:** Southern Africa (~**$99K**) and Canada (~**$47K**).
+- **Lowest contributors:** Southern Africa (**$99K**) and Canada (**$47K**).
 
 **Insight:**  
 Quickly surfaces high- vs. low-performing regions to guide market focus, budget allocation, and follow-up analysis on underperforming areas.

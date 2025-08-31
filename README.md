@@ -19,9 +19,9 @@ Interactive Tableau dashboards built from the Global Superstore dataset, analyzi
 - Combines **trend + distribution + geography** in one view to guide **pricing, promotion, and regional strategy**, and to prioritize root-cause analysis on loss pockets.
 
 
-**Viz** Box and whisker plot
 
 ## Profit Margin Distribution 
+**Viz** Box and whisker plot
 
 ![Profit Margin Distribution](profit_margin_distribution.png)
 

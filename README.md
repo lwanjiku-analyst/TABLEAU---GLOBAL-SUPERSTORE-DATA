@@ -26,7 +26,8 @@ Interactive Tableau dashboards built from the Global Superstore dataset, analyzi
 ![Profit Margin Distribution](profit_margin_distribution.png)
 
 **Analysis:**  
-This visualization highlights profit margin distribution across product sub-categories.  
+This visualization highlights profit margin distribution across product sub-categories.
+
 - **Top performer:** Paper with a 19% profit margin.  
 - **Second:** Labels at 12%.  
 - **Bottom performers:** Tables (-24%) and Machines (-4%).
@@ -40,10 +41,28 @@ This visualization highlights profit margin distribution across product sub-cate
 
 **Analysis:**  
 This map visualization shows total sales distributed across U.S. states.  
+
 - **Top 2 performers:** California ($457K) and New York ($310K).  
 - Other states show moderate performance, with lighter shades indicating lower sales.  
 
- **Insight:** Identifying top-performing states helps businesses prioritize resources, tailor marketing strategies, and allocate inventory effectively to meet demand in high-sales regions.  
+ **Insight:** Identifying top-performing states helps businesses prioritize resources, tailor marketing strategies, and allocate inventory effectively to meet demand in high-sales regions. 
+ 
+
+## Profit Performance by Sales Rep and Year 
+
+**Viz** Heatmap
+
+![Profit by Sales Rep and Year](profit_by_salesrep_year_heatmap.png)
+
+
+**Analysis**
+- Consistent top performers across 2017–2020 (e.g., **Gilbert**, **Hadia**, **Chandra**)   
+- Bottom reps show **multi-year losses**, with 2020 still negative.  
+- Overall trajectory improves into **2020**, but performance is uneven across reps.
+
+**Insight:**  
+Quickly identifies **high performers to replicate**, **underperformers for coaching or territory review**, and **year-over-year trends** to inform compensation, quotas, and resource allocation.
+
 
 
  ## Sales vs Order Date by Segment 
@@ -55,6 +74,7 @@ This map visualization shows total sales distributed across U.S. states.
 
 **Analysis:**  
 This line chart tracks sales growth across three customer segments (Consumer, Corporate, Home Office) from 2017–2020.  
+
 - **Consumer segment** consistently led with the highest sales, peaking near $800K by late 2020 in QT 4.  
 - **Corporate** showed steady mid-level growth, while **Home Office** lagged behind but trended upward.  
 
@@ -66,7 +86,6 @@ This line chart tracks sales growth across three customer segments (Consumer, Co
  **Viz** Treemap
 
 ![Sales by Region Treemap](region_sales_treemap.png)
-
 
 
 **Analysis:**  
